@@ -1,0 +1,30 @@
+{
+  "name": "nblue-test",
+  "version": "1.0.0",
+  "description": "nblue test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nblue2016@github.com/nblue2016/nblue-test.git"
+  },
+  "keywords": [
+    "nblue",
+    "test"
+  ],
+  "author": "Bruce Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nblue2016/nblue-test/issues"
+  },
+  "homepage": "https://github.com/nblue2016/nblue-test#readme",
+  "dependencies": {
+    "nblue": "0.0.2",
+    "sequelize": "^3.23.4",
+    "orm": "^3.1.0",
+    "mysql": "^2.11.1",
+    "sqlite3": "^3.1.4"
+  }
+}
